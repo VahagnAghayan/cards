@@ -1,3 +1,5 @@
+This project introduces basic react structure with randomly generated number cards with some functionality, its purpose is to introduce some front end techniques with react library 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
