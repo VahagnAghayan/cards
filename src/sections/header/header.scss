@@ -1,0 +1,21 @@
+.header {
+  display: flex;
+  align-items: center;
+  height: 10vh;
+  border: 1px solid #000000;
+  background-color: green;
+
+  button {
+    margin-left: 10px;
+    width: 150px;
+    height: 40px;
+    color: #ffffff;
+    border: 2px solid blue;
+    border-radius: 10px;
+  }
+
+  button:hover {
+    cursor: pointer;
+    background-color: blue;
+  }
+}
